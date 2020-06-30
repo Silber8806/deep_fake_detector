@@ -11,3 +11,6 @@ Data processing involved reading all files, applying viola-jones algorithm to de
 
 Didn't do much optimization on processinig.  The viola-jones can take an hour or more to do.  Left it on while watching Great British Baking show :D.
 
+Deep Fake detection - Processing.ipynb => Data pre-processing...eg getting videos, getting video frames, getting faces from video frames, doing some feature engineering.
+Deep Fake detection - Training.ipynb => trains 3 SVM models.
+Deep Fake detection - Evaluating.ipynb => Doing basic evaluation -> Confusion Matrix, ROC and AUC etc
